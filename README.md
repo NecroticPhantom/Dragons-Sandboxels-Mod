@@ -1,4 +1,4 @@
-# Dragons-Sandboxels-Mod
+# dragons-sbxls-mod
 This is a github page for the development of the dragons.js sandboxels mod.
 
 Whilst I make the mod I am not associated in any way with r74n.
